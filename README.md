@@ -8,7 +8,7 @@
 
 **Threats Don’t Know Us. Until It’s Too Late.**
 
-Advanced, fast, and ethical OSINT toolkit built in Python – designed for real reconnaissance in 2025.
+Advanced, fast, OSINT toolkit built in Python 
 
 <br>
 
