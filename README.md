@@ -12,7 +12,7 @@ Advanced, fast, and ethical OSINT toolkit built in Python – designed for real 
 
 <br>
 
-![Tool Screenshot](https://via.placeholder.com/800x450.png?text=Null7xx+OSINT+Toolkit+Screenshot)  
+![Tool Screenshot](null7xx.jpeg)  
 
 
 <br><br>
