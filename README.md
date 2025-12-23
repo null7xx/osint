@@ -1,57 +1,60 @@
 <div align="center">
-
 <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" width="300"/>
-
 <br><br>
 
 # Null7xx OSINT Toolkit
 
 **Threats Don’t Know Us. Until It’s Too Late.**
 
-Advanced, fast, OSINT toolkit built in Python 
+Advanced, fast, and powerful OSINT toolkit built in Python – 2025 Heavy Edition
 
 <br>
-
-![Tool Screenshot](null7xx.jpeg)  
-
-
+<img src="null7xx.jpeg" alt="Tool Screenshot" width="800"/>
 <br><br>
 
 ### Features
 - TikTok Profile Analyzer
+- Advanced Port Scanner
 - Phone Number OSINT 
-- IP Geolocation 
+- IP Geolocation
 - Username Checker 
-- Admin Panel Finder
-- Email Breach Check 
-- Image Reverse Search 
-- Domain OSINT 
+- Admin Panel Finder 
+- Email Breach Check
+- Image Reverse Search
+- Domain OSINT
 - Custom Report Generation
-- Face Recognition (local image + URL support)
+- Face Recognition OSINT
 
 <br>
 
-### How to Run (Linux / Kali / PC)
-
+### Installation & Run (Linux / Kali / PC)
 ```bash
 git clone https://github.com/null7xx/osint
 cd osint
-chmod +x Null7xxOsint
-./Null7xxOsint
-
+pip install -r requirements.txt
+python3 Null7xxOsint.py
 ```
-Termux / Android Users
-Executable is built for x86_64 (PC/Linux).
-Termux version (ARM/AArch64) is coming soon  I'm working on it.
-Until then, you can run the source code version 
 
-### Face Recognition Setup
 
+## Face Recognition Setup
 Create a folder named known in the tool directory
-Add clear front-face photos of known people
-Filename = person name (e.g. null7xx.jpg, null.jpg)
+Add clear front-face photos (filename = person name, e.g. null7xx.jpg)
 Tool will match target images against this database
+Unknown faces auto-save in unknown_faces/ folder
 
-## Need Help or Source Code?
-*DM me directly on Telegram:*
-*👉 t.me/nullx7x*
+### Results
+*All results automatically saved in results/ folder*
+
+Need Help?
+DM me on Telegram:
+👉 t.me/nullx7x
+GitHub: github.com/null7xx
+TikTok: @null7xx
+
+
+DISCLAIMER: Educational & ethical use only.
+Unauthorized scanning or misuse is prohibited.
+You are responsible for your actions.
+
+
+Made with ❤️ by Null7xx | Cyber Alpha
