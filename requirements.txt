@@ -1,0 +1,8 @@
+requests
+phonenumbers
+python-whois
+face-recognition
+opencv-python
+pillow
+tqdm
+colorama
