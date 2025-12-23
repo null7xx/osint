@@ -6,7 +6,7 @@
 
 **Threats Don’t Know Us. Until It’s Too Late.**
 
-Advanced, fast, and powerful OSINT toolkit built in Python – 2025 Heavy Edition
+Advanced, fast, OSINT toolkit built in Python 
 
 <br>
 <img src="null7xx.jpeg" alt="Tool Screenshot" width="800"/>
