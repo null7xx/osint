@@ -31,7 +31,7 @@ Advanced, fast, OSINT toolkit built in Python
 ```bash
 git clone https://github.com/null7xx/osint
 cd osint
-pip install -r requirements.txt
+chmod +x Null7xxOsint.py
 python3 Null7xxOsint.py
 ```
 
