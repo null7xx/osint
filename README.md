@@ -27,7 +27,7 @@ Advanced, fast, OSINT toolkit built in Python
 
 <br>
 
-### Installation & Run (Linux / Kali / PC)
+### Installation & Run (Termux / Linux / Pc)
 ```bash
 git clone https://github.com/null7xx/osint
 cd osint
